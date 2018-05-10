@@ -1,0 +1,19 @@
+{
+  "name": "jkj",
+  "version": "1.0.0",
+  "description": "JKJ Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethynnvo/JKJ-Building-And-Construction.git"
+  },
+  "author": "ethynnvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethynnvo/JKJ-Building-And-Construction/issues"
+  },
+  "homepage": "https://github.com/ethynnvo/JKJ-Building-And-Construction#readme"
+}
