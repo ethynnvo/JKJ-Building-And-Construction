@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ethynnvo/JKJ-Building-And-Construction/issues"
   },
-  "homepage": "https://github.com/ethynnvo/JKJ-Building-And-Construction#readme"
+  "homepage": "https://github.com/ethynnvo/JKJ-Building-And-Construction#readme",
+  "dependencies": {
+    "bulma-start": "0.0.2"
+  }
 }
